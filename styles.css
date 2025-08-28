@@ -4,7 +4,7 @@
 :root {
     --laranja-claro: #000000;
     --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #ffffff;
+    --alto-contraste-texto: rgb(3, 3, 3);
     --alto-contraste-link: #ad291f;
 }
 
@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #000000;
     font-weight: 600;
 }
 
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #000000;
 
 }
 
@@ -121,7 +121,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #ffffff;
+    background-color: #000000;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
